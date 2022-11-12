@@ -1,5 +1,4 @@
 
-```md
 # Prework Study Guide Webpage
 
 ## A study guide for the course pre-work
